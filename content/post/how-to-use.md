@@ -13,3 +13,7 @@ math: true
 1. `hugo new post/first-article.md`
 1. edit `config.toml`
 1. `hugo`
+
+オプション
+
+- activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)
