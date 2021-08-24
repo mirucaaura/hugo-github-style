@@ -5,8 +5,17 @@
     <link>https://mirucaaura.github.io/hugo-github-style/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-jp</language>
     <lastBuildDate>Tue, 24 Aug 2021 18:38:29 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/hugo-github-style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readme</title>
+      <link>https://mirucaaura.github.io/hugo-github-style/readme/</link>
+      <pubDate>Tue, 24 Aug 2021 18:51:30 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/hugo-github-style/readme/</guid>
+      <description>Hello World!</description>
+    </item>
+    
     <item>
       <title>How to Use</title>
       <link>https://mirucaaura.github.io/hugo-github-style/post/how-to-use/</link>

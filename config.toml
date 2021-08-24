@@ -1,5 +1,22 @@
 baseURL = "https://mirucaaura.github.io/hugo-github-style/"
-languageCode = "en-us"
+languageCode = "ja-jp"
 title = "My New Hugo Site"
 theme = "github-style"
 publishDir = "docs"
+
+
+[params]
+  author = "miruca"
+  description = "Weniger, aber besser"
+  github = "mirucaaura"
+  twitter = "mirucaaura"
+  lastmod = true
+  favicon = "/images/avatar.png"
+  location = "Japan"
+
+  [[params.links]]
+    title = "Link"
+    href = "https://mirucacule.hatenablog.com/"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
