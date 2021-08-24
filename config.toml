@@ -3,6 +3,7 @@ languageCode = "ja-jp"
 title = "My New Hugo Site"
 theme = "github-style"
 publishDir = "docs"
+copyright = "© 2021 <a href=\"https://twitter.com/mirucaaura/\"><span>@mirucaaura</span></a> all rights reserved."
 
 
 [params]

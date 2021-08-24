@@ -2,7 +2,7 @@
 title: "How to Use"
 date: 2021-08-24T18:38:29+09:00
 draft: false
-math: true
+katex: math
 ---
 
 `hugo` はインストール済みであると仮定して話を進める．
@@ -10,6 +10,7 @@ math: true
 1. `hugo new site <the name of site>`
 1. `git submodule add https://github.com/MeiK2333/github-style.git themes/github-style`
 1. `cp -r ./themes/github-style/layouts/* ./layouts/`
+1. `cp -r themes/github-style/static/* static/`
 1. `hugo new post/first-article.md`
 1. edit `config.toml`
 1. `hugo`
