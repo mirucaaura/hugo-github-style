@@ -6,7 +6,17 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Aug 2021 18:12:53 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/hugo-github-style/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 18:38:29 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/hugo-github-style/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use</title>
+      <link>https://mirucaaura.github.io/hugo-github-style/post/how-to-use/</link>
+      <pubDate>Tue, 24 Aug 2021 18:38:29 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/hugo-github-style/post/how-to-use/</guid>
+      <description>hugo はインストール済みであると仮定して話を進める．
+ hugo new site &amp;lt;the name of site&amp;gt; git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ hugo new post/first-article.md edit config.toml hugo  </description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://mirucaaura.github.io/hugo-github-style/post/first/</link>
