@@ -5,6 +5,7 @@
     <link>https://mirucaaura.github.io/hugo-github-style/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://mirucaaura.github.io/hugo-github-style/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright><atom:link href="https://mirucaaura.github.io/hugo-github-style/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
