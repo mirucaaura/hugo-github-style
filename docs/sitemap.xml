@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/first/</loc>
+    <loc>https://mirucaaura.github.io/hugo-github-style/post/first/</loc>
     <lastmod>2021-08-24T18:12:53+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://mirucaaura.github.io/hugo-github-style/</loc>
     <lastmod>2021-08-24T18:12:53+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://mirucaaura.github.io/hugo-github-style/post/</loc>
     <lastmod>2021-08-24T18:12:53+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mirucaaura.github.io/hugo-github-style/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mirucaaura.github.io/hugo-github-style/tags/</loc>
   </url>
   
 </urlset>
